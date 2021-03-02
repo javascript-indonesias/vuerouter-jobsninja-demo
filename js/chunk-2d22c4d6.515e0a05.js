@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22c4d6"],{f33f:function(n,t,a){"use strict";a.r(t);var u=a("7a23"),e=Object(u["g"])("h3",null,"Halaman 404",-1),c=Object(u["g"])("h3",null,"Halaman yang dituju tidak ditemukan",-1);function d(n,t,a,d,o,r){return Object(u["p"])(),Object(u["d"])(u["a"],null,[e,c],64)}var o={name:"NotFoundComponent",setup:function(){return{}}};o.render=d;t["default"]=o}}]);
+//# sourceMappingURL=chunk-2d22c4d6.515e0a05.js.map
